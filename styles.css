@@ -51,3 +51,7 @@ section #lesson-text2{
     text-align: center;
     line-height:0;
 }
+.copy_right_footer h3{
+    position: relative;
+    top: 2%;
+}
