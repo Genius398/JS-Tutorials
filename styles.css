@@ -52,6 +52,6 @@ section #lesson-text2{
     line-height:0;
 }
 .copy_right_footer h3{
-    position: relative;
-    bottom: 3%;
+    position: absolute;
+    bottom: 2px;
 }
