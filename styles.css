@@ -45,7 +45,7 @@ section #lesson-text2{
     position: fixed;
     color: white;
     bottom: 0;
-    height: 150px;
+    height: 90px;
     width:100%;
     background-color: grey;
     text-align: center;
@@ -53,5 +53,5 @@ section #lesson-text2{
 }
 .copy_right_footer h3{
     position: absolute;
-    bottom: 2px;
+    bottom: 20px;
 }
