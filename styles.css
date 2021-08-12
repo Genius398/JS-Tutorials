@@ -42,7 +42,7 @@ section #lesson-text2{
     font-size: 1.6em;
 }
 .copy_right_footer{
-    position: absolute;
+    position: relative;
     color: white;
     top: 100%;
     width:100%;
