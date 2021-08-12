@@ -44,7 +44,7 @@ section #lesson-text2{
 .copy_right_footer{
     position: fixed;
     color: white;
-    bottom:0;
+    bottom:-5000px;
     width:100%;
     background-color: grey;
     line-height: 3;
