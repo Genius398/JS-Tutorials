@@ -42,10 +42,9 @@ section #lesson-text2{
     font-size: 1.6em;
 }
 .copy_right_footer{
-    position: fixed;
+    position: relative;
     color: white;
     bottom: 0;
-    height:auto;
     width:100%;
     background-color: grey;
     line-height: 3;
