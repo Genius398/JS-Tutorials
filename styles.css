@@ -65,4 +65,5 @@ footer h2 a{
     width:100%;
     background-color: grey;
     text-align: center;
+    line-height:0;
 }
