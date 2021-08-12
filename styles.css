@@ -45,13 +45,13 @@ section #lesson-text2{
     position: fixed;
     color: white;
     bottom: 0;
-    height: 19%;
+    height: auto;
     width:100%;
     background-color: grey;
     text-align: center;
     line-height:0;
 }
 .copy_right_footer h3{
-    position: relative;
+    position: ;
     bottom: 30px;
 }
