@@ -45,6 +45,7 @@ section #lesson-text2{
     position: fixed;
     color: white;
     bottom: 0;
+    height:auto;
     width:100%;
     background-color: grey;
     line-height: 3;
