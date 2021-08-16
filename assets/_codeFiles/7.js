@@ -1,0 +1,6 @@
+planeImage = loadImage("plane.jpg")
+coinImage = loadImage("coin.jpg")
+bgBirdImage = loadImage("otherbird.jpg")
+sunImage = loadImage("sun.jpg")
+cloudImage = loadImage("cloud.jpg")
+charImage = loadImage("skybird.jpg")
