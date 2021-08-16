@@ -6,7 +6,7 @@
 }
 section{
     width: 100%;
-    height: auto;
+    height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(./bg.jpg);
     background-position: center;
     background-size: cover;
@@ -46,4 +46,4 @@ section h3 a{
     text-decoration: none;
     border-radius: 8px;
     background: lightgreen;
-} 
+}
