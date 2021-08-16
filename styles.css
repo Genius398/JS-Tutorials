@@ -10,7 +10,7 @@ body{
 }
 section{
     width: 100%;
-    height: 100vh;
+    height: max-content;
 }
 ::-webkit-scrollbar{
     width: 18px;
