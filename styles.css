@@ -16,7 +16,6 @@ section{
     width: 18px;
 }
 ::-webkit-scrollbar-thumb{
-    background: linear-gradient(45deg,#06dee1,#79ff6c);
     border-radius: 8px;
 }
 section #intro{
