@@ -57,7 +57,7 @@ further defined and clarified by project maintainers.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at anantjitchander@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
+is deemed necessary and appropriate to the circumstances by the Security team. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
@@ -73,4 +73,4 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+https://www.contributor-covenant.org/faq or add a comment to the discussion in the security team.
