@@ -41,7 +41,7 @@ section #lesson-text{
 section #lesson-text2{
     font-size: 1.6em;
 }
-section h3 a{
+.green-btn{
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
