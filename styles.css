@@ -47,4 +47,6 @@ section #lesson-text2{
     border-radius: 8px;
     background: lightgreen;
     font-size:150%;
+    height:75px;
+    width:125px;
 }
