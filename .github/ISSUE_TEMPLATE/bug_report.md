@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug, Priority :2, Website Related
+assignees: Genius398, somePythonProgrammer, Super45coder, Sreehari521, e-coders
 
 ---
 
